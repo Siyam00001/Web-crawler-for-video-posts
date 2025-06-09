@@ -20,10 +20,6 @@ This Python script automates the process of scraping and downloading videos from
 
 ## Installation
 ```sh
-# Clone the repository
-git clone https://github.com/your-username/video-downloader.git
-cd video-downloader
-
 # Install dependencies
 pip install -r requirements.txt
 ```
